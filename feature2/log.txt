@@ -1,1 +1,3 @@
 This is the log file for feature 2
+
+Hey buddy,,, you will get conflict here
