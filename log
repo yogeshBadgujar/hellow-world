@@ -4,4 +4,6 @@ This is the file created before pulishing a feature1
 1) Understanding 
   a) git pull
   b) git fetch origin
+  
+  1) Approach merge Only update in master 
 
