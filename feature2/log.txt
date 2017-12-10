@@ -1,3 +1,5 @@
 This is the log file for feature 2
 
-Hey buddy,,, you will get conflict here
+Resolved conflict!!! This is new code here now
+
+
